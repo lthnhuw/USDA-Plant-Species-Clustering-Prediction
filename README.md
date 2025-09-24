@@ -1,4 +1,5 @@
-# USDA-Plant-Species-Clustering-Prediction  
+# USDA-Plant-Species-Clustering-Prediction   
+Link project: - [USDA-Plant-Species-Clustering-Prediction](https://github.com/lthnhuw/Projects/blob/main/plants_Clustering_version2.ipynb)
 ## 1. Project Overview  
 - <b> Objective: </b> Analyze and cluster plant species distribution across the United States to support environmental planning and agricultural decision-making.
 - <b> Dataset: </b> USDA Plant Dataset (34,781 samples, 70 features).
@@ -29,4 +30,4 @@
 Data Cleaning, EDA, Clustering Analysis, Data Visualization, Statistical Evaluation, Insight Communication  
 
 ## 7. Reflection  
-This project strengthened my ability to analyze large datasets, evaluate multiple models, and translate technical results into actionable business insights for decision-makers.
+This project strengthened my ability to analyze large datasets, evaluate multiple models, and translate technical results into actionable business insights for decision-makers.  
